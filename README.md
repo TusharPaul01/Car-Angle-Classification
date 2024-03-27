@@ -1,5 +1,7 @@
 # Car-Angle-Classification
 </br>
+Task : Classify the angle of the cars using the images
+
 This project involves training a convolutional neural network (CNN) to classify images of cars based on their corresponding angles. The angle represents the click location relative to the car. The task is to achieve the best accuracy in classifying car images into their respective angle categories.
 
 Dataset
