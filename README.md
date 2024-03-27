@@ -4,7 +4,7 @@ Task :
 
 This project involves training a convolutional neural network (CNN) to classify images of cars based on their corresponding angles. The angle represents the click location relative to the car. The task is to achieve the best accuracy in classifying car images into their respective angle categories.
 
-Dataset
+Dataset:
 The dataset consists of images of cars along with their corresponding angles. The images are categorized into different angle classes.
 
 Total Images: 27,042
@@ -27,8 +27,8 @@ Output Dense layer with softmax activation (number of neurons equals the number 
 Training
 The model was trained for 3 epochs with the Adam optimizer and categorical cross-entropy loss function. The training data was augmented using image data generators with a validation split of 20%.
 
-Model Evaluation
-The model achieved an accuracy of XX% on the validation set after 3 epochs of training.
+Model Evaluation:
+The model achieved an accuracy of 84% on the validation set after 1 epochs of training. To increase the accuracy we have to increase epochs.
 
 Prediction
 The model can be used to predict the angle of a car in an image. Provide the path to the image you want to predict, and the model will output the predicted angle class.
