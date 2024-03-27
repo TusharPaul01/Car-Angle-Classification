@@ -46,7 +46,12 @@ This project demonstrates the use of CNN for classifying car images based on the
 
 # Results
 </br>
+Angle of the car:
+-> 0 degrees
 
 ![image](https://github.com/TusharPaul01/Car-Angle-Classification/assets/97314846/38e11a3a-fe84-4956-9cc9-de3c67fc3653)
+
+Angle of the car:
+-> 40 degrees
 
 ![image](https://github.com/TusharPaul01/Car-Angle-Classification/assets/97314846/e821a0e4-8934-48fa-8d47-ba906458dce4)
